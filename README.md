@@ -10,6 +10,7 @@ Export the simplified route sheet from Google Sheets (File > Download > Comma-se
 
 If you prefer, you can install the binary:
 
+    go get github.com/ray1729/ctc-routes
     go install github.com/ray1729/ctc-routes
     
 Then
